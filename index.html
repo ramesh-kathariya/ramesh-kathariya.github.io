@@ -3,24 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ramesh Kathariya | PhD Fellow & Ecologist</title>
+    
+    <!-- SEO Meta Tags -->
+    <title>Ramesh Kathariya | PhD Fellow & Ecologist | CAS-IGSNRR</title>
+    <meta name="description" content="Personal website of Ramesh Kathariya, an ecologist and PhD Fellow at CAS-IGSNRR specializing in biodiversity conservation, GIS, and ecological modeling.">
+    <meta name="keywords" content="Ramesh Kathariya, Ecologist, PhD Fellow, Nepal, ICIMOD, CAS-IGSNRR, Biodiversity, GIS, Smooth-coated Otter">
+    <link rel="canonical" href="https://rameshkathariya.github.io/">
+
+    <!-- Favicon placeholder -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+    <!-- CSS -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
+    
+    <!-- Google Fonts with display swap for performance -->
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
 </head>
-<body>
+<body id="home">
 
-    <!-- Dynamic Header -->
-    <nav class="glass-nav">
+    <!-- Accessible Navigation -->
+    <nav class="glass-nav" role="navigation" aria-label="Main Navigation">
         <div class="container nav-flex">
             <div class="logo">RAMESH<span>.</span></div>
             <ul class="nav-links">
-                <li><a href="#about">Bio</a></li>
+                <li><a href="#home">Home</a></li> <!-- Added Home Button -->
+                <li><a href="#about">About</a></li>
                 <li><a href="#research">Research</a></li>
                 <li><a href="#impact">Impact</a></li>
                 <li><a href="#field">Field</a></li>
             </ul>
-            <a href="mailto:rameshkathariya9@gmail.com" class="btn-contact">Let's Talk</a>
+            <a href="mailto:rameshkathariya9@gmail.com" class="btn-contact">Contact Me</a>
         </div>
     </nav>
 
@@ -30,128 +43,109 @@
             <div class="hero-content">
                 <span class="badge">PhD Fellow @ CAS-IGSNRR</span>
                 <h1>Landscape <br><span class="text-gradient">Ecologist</span></h1>
-                <p>Bridging the gap between wildlife field research and large-scale ecological modeling in the Hindu Kush Himalaya.</p>
+                <p>Scaling conservation from species to transboundary ecosystems across the Hindu Kush Himalaya.</p>
                 <div class="hero-socials">
-                    <a href="https://linkedin.com/in/rameshkathariya"><i class="fab fa-linkedin"></i></a>
-                    <a href="https://orcid.org/0000-0002-5923-4763"><i class="fab fa-orcid"></i></a>
-                    <a href="https://github.com/ramesh-kathariya"><i class="fab fa-github"></i></a>
-                    <a href="https://bsky.app/profile/ramesh-kathariya.bsky.social"><i class="fa-solid fa-cloud"></i></a>
+                    <a href="https://linkedin.com/in/rameshkathariya" aria-label="LinkedIn Profile" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://orcid.org/0000-0002-5923-4763" aria-label="ORCID Profile" target="_blank"><i class="fab fa-orcid"></i></a>
+                    <a href="https://github.com/ramesh-kathariya" aria-label="GitHub Profile" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="https://bsky.app/profile/ramesh-kathariya.bsky.social" aria-label="Bluesky Profile" target="_blank"><i class="fa-solid fa-cloud"></i></a>
                 </div>
             </div>
             <div class="hero-image-wrapper">
                 <div class="image-border">
-                    <img src="profile.png" alt="Ramesh Kathariya" onerror="this.src='https://via.placeholder.com/400x400?text=Profile+Photo'">
-                </div>
-                <div class="floating-card">
-                    <strong>1,100+</strong>
-                    <span>Field Observations</span>
+                    <img src="profile.jpg" alt="Ramesh Kathariya, Ecologist and PhD Fellow" width="400" height="400" loading="eager">
                 </div>
             </div>
         </div>
     </header>
 
-    <!-- Stats Bar -->
+    <!-- Quick Insights -->
     <section class="stats-bar">
         <div class="container stats-flex">
-            <div class="stat-item"><strong>Nepal &rarr; China</strong><span>Current Journey</span></div>
-            <div class="stat-item"><strong>8+</strong><span>Citations</span></div>
-            <div class="stat-item"><strong>450+</strong><span>Species Documented</span></div>
-            <div class="stat-item"><strong>GIS/R/Python</strong><span>Stack</span></div>
+            <div class="stat-item"><span class="stat-num">1,100+</span><span class="stat-label">Observations</span></div>
+            <div class="stat-item"><span class="stat-num">450+</span><span class="stat-label">Species Identified</span></div>
+            <div class="stat-item"><span class="stat-num">CAS-IGSNRR</span><span class="stat-label">PhD Fellowship</span></div>
+            <div class="stat-item"><span class="stat-num">GIS/R</span><span class="stat-label">Tech Stack</span></div>
         </div>
     </section>
 
-    <!-- About Section -->
-    <section id="about" class="container section-padding">
-        <div class="grid-2">
-            <div class="section-header">
-                <h2>Scaling Species to <br><span class="text-highlight">Landscape</span></h2>
+    <!-- Content Section -->
+    <main>
+        <section id="about" class="container section-padding">
+            <div class="grid-2">
+                <div class="section-header">
+                    <h2>Science for <br><span class="text-highlight">Sustainability</span></h2>
+                </div>
+                <article class="about-text">
+                    <p>I am a wildlife researcher based in Beijing, currently focused on ecological modeling and landscape-level conservation at the <strong>Institute of Geographic Sciences and Natural Resources Research (IGSNRR)</strong>.</p>
+                    <p>My background includes tenure at <strong>ICIMOD</strong>, where I managed the HKBIF portal. I specialize in integrating <strong>Indigenous knowledge</strong> with advanced geospatial tools to protect species like the Smooth-coated Otter and the Asiatic Golden Cat.</p>
+                </article>
             </div>
-            <div class="about-text">
-                <p>From monitoring <strong>Smooth-coated Otters</strong> in the Karnali River to managing the <strong>HKBIF portal</strong> at ICIMOD, my career has been dedicated to data-driven conservation.</p>
-                <p>I focus on integrating <strong>Indigenous knowledge</strong> with geospatial technology. As a PhD fellow in Beijing, I am currently exploring how to scale conservation efforts from individual species to entire transboundary ecosystems.</p>
-            </div>
-        </div>
-    </section>
+        </section>
 
-    <!-- Research Portfolio -->
-    <section id="research" class="bg-dark section-padding">
-        <div class="container">
-            <h2 class="light-text">Selected Research</h2>
-            <div class="portfolio-grid">
-                <!-- Card 1 -->
-                <div class="work-card">
-                    <div class="work-content">
-                        <span class="work-tag">Freshwater Ecology</span>
-                        <h3>Smooth-coated Otter Distribution</h3>
-                        <p>A multi-year study on the habitat variables of <em>Lutrogale perspicillata</em> in the Karnali River.</p>
-                        <a href="https://iucnosgbull.org/Volume40/Kathariya_et_al_2023.html" class="link-arrow">Read Paper &rarr;</a>
+        <!-- Research Grid -->
+        <section id="research" class="bg-dark section-padding">
+            <div class="container">
+                <h2 class="light-text">Selected Publications</h2>
+                <div class="portfolio-grid">
+                    <div class="work-card">
+                        <span class="work-tag">Journal Paper</span>
+                        <h3>Otter Habitat Analysis</h3>
+                        <p>Habitat variables affecting Smooth-coated Otters in the Karnali River, Nepal.</p>
+                        <a href="https://iucnosgbull.org/Volume40/Kathariya_et_al_2023.html" class="link-arrow" aria-label="Read Otter Habitat Paper">View Paper &rarr;</a>
                     </div>
-                </div>
-                <!-- Card 2 -->
-                <div class="work-card">
-                    <div class="work-content">
-                        <span class="work-tag">Discovery</span>
-                        <h3>Range Extension: Asiatic Golden Cat</h3>
-                        <p>Camera trap evidence extending the known western range of the species to Jajarkot, Nepal.</p>
-                        <a href="https://www.researchgate.net/publication/395129322" class="link-arrow">View Evidence &rarr;</a>
-                    </div>
-                </div>
-                <!-- Card 3 -->
-                <div class="work-card">
-                    <div class="work-content">
-                        <span class="work-tag">Data Policy</span>
-                        <h3>HKBIF Portal & GBIF</h3>
-                        <p>Standardizing biodiversity data for the Hindu Kush Himalaya via the ICIMOD-hosted portal.</p>
-                        <a href="https://hkhbif.icimod.org/" class="link-arrow">Project Link &rarr;</a>
+                    <div class="work-card">
+                        <span class="work-tag">Research Note</span>
+                        <h3>Asiatic Golden Cat</h3>
+                        <p>Range extension documentation in Jajarkot using camera-trap evidence.</p>
+                        <a href="https://www.researchgate.net/publication/395129322" class="link-arrow" aria-label="View Golden Cat Research">Explore &rarr;</a>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <!-- Thought Leadership / Impact -->
-    <section id="impact" class="container section-padding">
-        <div class="featured-impact">
-            <div class="impact-content">
-                <span class="work-tag">Op-Ed & Policy</span>
-                <h2>Nepal’s conservation successes: <br>What are the costs?</h2>
-                <p>My feature in <strong>The Himalayan Times</strong> explores the critical balance between community-managed conservation and the local risks of human-wildlife conflict.</p>
-                <a href="https://thehimalayantimes.com/nepal/nepals-conservation-successes-what-are-the-costs-for-the-local-communities" target="_blank" class="btn-outline">Read Article</a>
+        <!-- Dynamic Impact -->
+        <section id="impact" class="container section-padding">
+            <div class="featured-impact">
+                <div class="impact-content">
+                    <span class="work-tag">Editorial</span>
+                    <h2>The Costs of Conservation Success</h2>
+                    <p>Published in <strong>The Himalayan Times</strong>: Analyzing the socio-ecological impacts of community-managed conservation in Nepal.</p>
+                    <a href="https://thehimalayantimes.com/nepal/nepals-conservation-successes-what-are-the-costs-for-the-local-communities" target="_blank" class="btn-outline">Read Feature</a>
+                </div>
             </div>
-        </div>
-    </section>
+        </section>
+    </main>
 
-    <!-- Field & Photography -->
+    <!-- Field Lens -->
     <section id="field" class="bg-light section-padding">
         <div class="container text-center">
-            <h2>The Field Lens</h2>
-            <p>Wildlife is best seen through the data it leaves behind. Follow my latest sightings across the HKH region.</p>
+            <h2>Real-time Fieldwork</h2>
+            <p>Wildlife documentation across the Hindu Kush Himalaya region.</p>
             <div class="inat-box">
-                <img src="https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=800&q=80" alt="Himalaya" class="field-bg">
                 <div class="inat-overlay">
-                    <h3>1,100+ Live Observations</h3>
-                    <p>Verified on iNaturalist</p>
-                    <a href="https://www.inaturalist.org/observations?user_id=rameshkathariya" class="btn-white">Explore My Gallery</a>
+                    <h3>iNaturalist Data</h3>
+                    <p>Verified Field Records</p>
+                    <a href="https://www.inaturalist.org/observations?user_id=rameshkathariya" class="btn-white">Visit Live Gallery</a>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Footer -->
+    <!-- Accessible Footer -->
     <footer class="main-footer">
         <div class="container">
             <div class="footer-grid">
                 <div>
-                    <h3>Ramesh Kathariya</h3>
-                    <p>PhD Fellow | IGSNRR-CAS, Beijing</p>
+                    <h3 class="logo">RAMESH<span>.</span></h3>
+                    <p>PhD Fellow | Ecologist</p>
                 </div>
                 <div class="footer-socials">
-                    <a href="https://linkedin.com/in/rameshkathariya"><i class="fab fa-linkedin"></i></a>
-                    <a href="https://x.com/rameshkat_ya9"><i class="fab fa-x-twitter"></i></a>
-                    <a href="https://www.instagram.com/ramesh.kathariya/"><i class="fab fa-instagram"></i></a>
+                    <a href="https://linkedin.com/in/rameshkathariya" aria-label="LinkedIn Profile"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://x.com/rameshkat_ya9" aria-label="Twitter Profile"><i class="fab fa-x-twitter"></i></a>
                 </div>
             </div>
-            <div class="copyright">&copy; 2024 Ramesh Kathariya. Crafted for Conservation.</div>
+            <div class="copyright">&copy; 2024 Ramesh Kathariya. All rights reserved.</div>
         </div>
     </footer>
 
