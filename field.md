@@ -7,19 +7,38 @@ description: Fieldwork, camera-trap surveys, and species records by Ramesh Katha
 <h1>Field</h1>
 <p>
   Wildlife documentation and species records from fieldwork across the Hindu Kush
-  Himalaya, logged primarily through iNaturalist.
+  Himalaya, logged primarily through iNaturalist and eBird.
 </p>
 
+<h2>iNaturalist</h2>
+<p class="hero__lede" style="font-size:0.85rem;">
+  Numbers below update automatically from the live iNaturalist API when you load this
+  page — the digits shown here are just the last-known fallback.
+</p>
 <div class="field-log">
   <dl class="field-log__list">
-    <div class="field-log__item"><dt>Observations</dt><dd>807</dd></div>
-    <div class="field-log__item"><dt>Species</dt><dd>358</dd></div>
-    <div class="field-log__item"><dt>Identifications contributed</dt><dd>325</dd></div>
+    <div class="field-log__item"><dt>Observations</dt><dd id="inat-obs-count">807</dd></div>
+    <div class="field-log__item"><dt>Species</dt><dd id="inat-species-count">358</dd></div>
+    <div class="field-log__item"><dt>Identifications contributed</dt><dd id="inat-ident-count">325</dd></div>
   </dl>
 </div>
-
 <p>
   <a href="{{ site.social.inaturalist }}">View the live iNaturalist profile →</a>
+</p>
+
+<hr class="divider">
+
+<h2>eBird</h2>
+<p>
+  Bird sightings are logged separately on eBird. eBird doesn't offer a public way to
+  pull live life-list totals onto an external site — profile pages and personal stats
+  are only visible to signed-in eBird users, and the public eBird API covers regional
+  species data rather than individual accounts — so this is a static link rather than
+  a live count.
+</p>
+<p>
+  <a href="https://ebird.org/profile/MzQyNjkzNQ">View eBird profile →</a>
+  <span style="color: var(--ink-soft); font-size: 0.85rem;"> (visible to logged-in eBird users)</span>
 </p>
 
 <hr class="divider">
