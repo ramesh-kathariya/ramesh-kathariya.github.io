@@ -3,21 +3,24 @@ layout: default
 title: Home
 ---
 
-<section class="hero">
-  <p class="hero__eyebrow">PhD Fellow, CAS-IGSNRR</p>
-  <h1>Landscape ecology and biodiversity governance, from field plot to policy text</h1>
-  <p class="hero__lede">
-    I'm a researcher based in Beijing, working across the Hindu Kush Himalaya and China on
-    GIS-based ecological modelling, mountain biodiversity, and the governance gaps between
-    what conservation policy promises and what gets implemented on the ground.
-  </p>
+<section class="hero hero--with-photo">
+  <div>
+    <p class="hero__eyebrow">PhD Fellow, CAS-IGSNRR</p>
+    <h1>Landscape ecology and biodiversity governance, from field plot to policy text</h1>
+    <p class="hero__lede">
+      I'm a researcher based in Beijing, working across the Hindu Kush Himalaya and China on
+      GIS-based ecological modelling, mountain biodiversity, and the governance gaps between
+      what conservation policy promises and what gets implemented on the ground.
+    </p>
+  </div>
+  <img class="hero__photo" src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Ramesh Kathariya">
 </section>
 
 <div class="field-log">
   <dl class="field-log__list">
     <div class="field-log__item"><dt>Peer-reviewed publications</dt><dd>6</dd></div>
-    <div class="field-log__item"><dt>iNaturalist observations</dt><dd>807</dd></div>
-    <div class="field-log__item"><dt>Species identified</dt><dd>358</dd></div>
+    <div class="field-log__item"><dt>iNaturalist observations</dt><dd id="inat-obs-count">807</dd></div>
+    <div class="field-log__item"><dt>Species identified</dt><dd id="inat-species-count">358</dd></div>
     <div class="field-log__item"><dt>Countries in current dataset</dt><dd>41</dd></div>
   </dl>
 </div>
