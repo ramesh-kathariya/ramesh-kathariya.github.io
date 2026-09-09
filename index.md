@@ -19,9 +19,8 @@ title: Home
 <div class="field-log">
   <dl class="field-log__list">
     <div class="field-log__item"><dt>Peer-reviewed publications</dt><dd>6</dd></div>
-    <div class="field-log__item"><dt>iNaturalist observations</dt><dd id="inat-obs-count">807</dd></div>
-    <div class="field-log__item"><dt>Species identified</dt><dd id="inat-species-count">358</dd></div>
-    <div class="field-log__item"><dt>Countries in current dataset</dt><dd>41</dd></div>
+    <div class="field-log__item"><dt>iNaturalist observations</dt><dd id="inat-obs-count">800+</dd></div>
+    <div class="field-log__item"><dt>Species identified</dt><dd id="inat-species-count">350+</dd></div>
   </dl>
 </div>
 
