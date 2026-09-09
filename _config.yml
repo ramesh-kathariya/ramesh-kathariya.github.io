@@ -1,0 +1,45 @@
+title: Ramesh Kathariya
+tagline: Landscape ecology, GIS, and biodiversity governance across the Hindu Kush Himalaya and beyond
+description: >-
+  Personal site of Ramesh Kathariya, PhD Fellow at CAS-IGSNRR (Chinese Academy of Sciences),
+  working across landscape ecology, GIS, and biodiversity governance in the Hindu Kush Himalaya
+  and beyond.
+url: "https://ramesh-kathariya.github.io"
+author: Ramesh Kathariya
+email: rameshkathariya9@gmail.com
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation (used in _includes/nav.html)
+nav_pages:
+  - title: About
+    url: /about/
+  - title: Research
+    url: /research/
+  - title: Field
+    url: /field/
+
+# Social + profile links
+social:
+  email: mailto:rameshkathariya9@gmail.com
+  orcid: https://orcid.org/0000-0002-5923-4763
+  google_scholar: https://scholar.google.com/citations?user=sxHqlnIAAAAJ&hl=en
+  researchgate: https://www.researchgate.net/profile/Ramesh-Kathariya
+  linkedin: https://www.linkedin.com/in/rameshkathariya/
+  github: https://github.com/ramesh-kathariya
+  inaturalist: https://www.inaturalist.org/people/rameshkathariya
+  bluesky: https://bsky.app/profile/ramesh-kathariya.bsky.social
+  x: https://x.com/rameshkat_ya9
+  facebook: https://www.facebook.com/ramesh.kathariya.33
+  instagram: https://www.instagram.com/ramesh.kathariya/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
