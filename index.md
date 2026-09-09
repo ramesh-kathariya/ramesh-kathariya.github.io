@@ -13,7 +13,7 @@ title: Home
       what conservation policy promises and what gets implemented on the ground.
     </p>
   </div>
-  <img class="hero__photo" src="{{ '/assets/img/profile.png' | relative_url }}" alt="Ramesh Kathariya">
+  
 </section>
 
 <div class="field-log">
