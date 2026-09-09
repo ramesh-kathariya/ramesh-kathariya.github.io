@@ -17,9 +17,9 @@ description: Fieldwork, camera-trap surveys, and species records by Ramesh Katha
 </p>
 <div class="field-log">
   <dl class="field-log__list">
-    <div class="field-log__item"><dt>Observations</dt><dd id="inat-obs-count">807</dd></div>
-    <div class="field-log__item"><dt>Species</dt><dd id="inat-species-count">358</dd></div>
-    <div class="field-log__item"><dt>Identifications contributed</dt><dd id="inat-ident-count">325</dd></div>
+    <div class="field-log__item"><dt>Observations</dt><dd id="inat-obs-count">800+</dd></div>
+    <div class="field-log__item"><dt>Species</dt><dd id="inat-species-count">350+</dd></div>
+    <div class="field-log__item"><dt>Identifications contributed</dt><dd id="inat-ident-count">300+</dd></div>
   </dl>
 </div>
 <p>
