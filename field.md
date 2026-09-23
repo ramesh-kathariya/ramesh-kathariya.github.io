@@ -30,22 +30,18 @@ description: Fieldwork, camera-trap surveys, and species records by Ramesh Katha
 
 <h2>eBird</h2>
 <p>
-  Bird sightings are logged separately on eBird. eBird doesn't offer a public way to
-  pull live life-list totals onto an external site — profile pages and personal stats
-  are only visible to signed-in eBird users, and the public eBird API covers regional
-  species data rather than individual accounts — so this is a static link rather than
-  a live count.
+  I have been involved in bird watching since 2019 and have kept this as my passion towards loving the nature. I have kept my records (life-list totals) in eBird. You can visit my eBird page to see my birdwatching activities.
 </p>
 <p>
   <a href="https://ebird.org/profile/MzQyNjkzNQ">View eBird profile →</a>
-  <span style="color: var(--ink-soft); font-size: 0.85rem;"> (visible to logged-in eBird users)</span>
+  <span style="color: var(--ink-soft); font-size: 0.85rem;"> (Sign up or in to view in eBird)</span>
 </p>
 
 <hr class="divider">
 
 <h2>Camera-trap work</h2>
 <p>
-  Camera-trap surveys in Jajarkot District, Nepal, have contributed new distributional
+  Camera-trap surveys for Red Panda in Jajarkot District, Nepal, have contributed new distributional
   records for the region, including a westward range extension for the Asiatic Golden
   Cat (<em>Catopuma temminckii</em>) and a first record of the Siberian Weasel
   (<em>Mustela sibirica</em>) — see the <a href="{{ '/research/' | relative_url }}">Research</a>
