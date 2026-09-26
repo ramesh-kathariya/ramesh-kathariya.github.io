@@ -27,7 +27,7 @@ field.md          Fieldwork / iNaturalist
 4. The site will be live at `https://ramesh-kathariya.github.io/`
    within a minute or two of pushing.
 
-## Before you push
+## Before push
 
 - **Profile photo**: this build doesn't include an image. Add your
   photo to `assets/img/` and reference it from `index.md` or
@@ -40,11 +40,6 @@ field.md          Fieldwork / iNaturalist
   assumes `ramesh-kathariya.github.io` (with hyphen) is the real
   domain, matching the repo name you gave me — double check that's
   actually correct before publishing.
-
-## Local preview (optional)
-
-If you have Ruby installed:
-
 ```bash
 bundle install
 bundle exec jekyll serve
