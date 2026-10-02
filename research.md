@@ -16,7 +16,7 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
   <li class="pub">
     <div class="pub_date">2026</div>
     <div>
-      <h3 class="pub_title">Determinants of Smooth‐coated Otter (_Lutrogale perspicillata_) Latrine Occurrence and Diet in the Karnali River, Nepal</h3>
+      <h3 class="pub_title">Determinants of Smooth‐coated Otter (<em>Lutrogale perspicillata</em>) Latrine Occurrence and Diet in the Karnali River, Nepal</h3>
       <p class="pub_meta">With Ramesh Prasad Sapkota, Rajesh Sada, Aashish Kapali, Maheshwor Kathariya, Kanchan Thapa</p>
       <p><a href="https://www.researchgate.net/publication/414829039_Determinants_of_Smooth-coated_Otter_Lutrogale_perspicillata_Latrine_Occurrence_and_Diet_in_the_Karnali_River_Nepal">View on ReseachGate →</a></p>
     </div>
