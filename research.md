@@ -16,9 +16,9 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
   <li class="pub">
     <div class="pub_date">2026</div>
     <div>
-      <h3 class="pub_title">Determinants of Smooth‐coated Otter (Lutrogale perspicillata) Latrine Occurrence and Diet in the Karnali River, Nepal</h3>
+      <h3 class="pub_title">Determinants of Smooth‐coated Otter (_Lutrogale perspicillata_) Latrine Occurrence and Diet in the Karnali River, Nepal</h3>
       <p class="pub_meta">With Ramesh Prasad Sapkota, Rajesh Sada, Aashish Kapali, Maheshwor Kathariya, Kanchan Thapa</p>
-      <p><a href="https://www.researchgate.net/publication/414829039_Determinants_of_Smooth-coated_Otter_Lutrogale_perspicillata_Latrine_Occurrence_and_Diet_in_the_Karnali_River_Nepal?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19">View on ReseachGate</p>
+      <p><a href="https://www.researchgate.net/publication/414829039_Determinants_of_Smooth-coated_Otter_Lutrogale_perspicillata_Latrine_Occurrence_and_Diet_in_the_Karnali_River_Nepal">View on ReseachGate →</a></p>
     </div>
   </li>
   
@@ -92,17 +92,8 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
   <li class="pub">
     <div class="pub__date">In prep</div>
     <div>
-      <h3 class="pub__title">Governance Gaps and Implementation Barriers in Asia-Pacific Biodiversity Policy</h3>
-      <p class="pub__meta">A 41-country dataset built from CBD Seventh National Reports and NBSAPs, examining
-      sub-regional progress patterns and reporting gaps.</p>
-    </div>
-  </li>
-  <li class="pub">
-    <div class="pub__date">In review</div>
-    <div>
-      <h3 class="pub__title">GIS-based flood susceptibility assessment of the Melamchi River Basin</h3>
-      <p class="pub__meta">AHP–MCDA / weighted linear combination methodology, validated against the 2021
-      flood event.</p>
+      <h3 class="pub__title">From policy commitment to biodiversity action: Implementation gaps and governance barriers to the Kunming–Montreal Global Biodiversity Framework in Asia and the Pacific</h3>
+      <p class="pub__meta">Examining sub-regional progress patterns and reporting gaps on biodiveristy.</p>
     </div>
   </li>
 </ul>
