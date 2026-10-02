@@ -96,7 +96,7 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
 </p>
 <ul class="pub-list">
   <li class="pub">
-    <div class="pub__date">In prep</div>
+    <div class="pub__date">In Review</div>
     <div>
       <h3 class="pub__title">From policy commitment to biodiversity action: Implementation gaps and governance barriers to the Kunming–Montreal Global Biodiversity Framework in Asia and the Pacific</h3>
       <p class="pub__meta">Examining sub-regional progress patterns and reporting gaps on biodiveristy.</p>
