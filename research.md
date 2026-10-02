@@ -43,8 +43,9 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
   <li class="pub">
     <div class="pub__date">2025</div>
     <div>
+      <span class="pub__tag">Case studies</span>
       <h3 class="pub__title">Fostering Transboundary Cooperation Through Other Effective Area-based Conservation Measures (OECMs) in the Eastern Himalaya</h3>
-      <p class="pub__meta">IUCN, International Union for Conservation of Nature and Natural Resources - In Scaling Up: Conservation in a Connected World . Sunita Chaudhary, Ramesh Kathariya, Mariano Castro Jimenez, Bandana Shakya, Samuel Thomas</p>
+      <p class="pub__meta">IUCN, International Union for Conservation of Nature and Natural Resources - In Scaling Up: Conservation in a Connected World . Sunita Chaudhary*, Ramesh Kathariya, Mariano Castro Jimenez, Bandana Shakya, Samuel Thomas</p>
       <p><a href="https://lib.icimod.org/records/n42qz-nda91">View on ICIMOD Library →</a></p>
     </div>
   </li>
@@ -77,7 +78,7 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
     <div class="pub__date">2023</div>
     <div>
       <h3 class="pub__title">Effects of Habitat Variables on the Distribution of Smooth-Coated Otters (<em>Lutrogale perspicillata</em>) Along the Kauriala Branch of the Karnali River, Nepal</h3>
-      <p class="pub__meta">Ramesh Kathariya, Kamal Raj Gosai, Ramesh Prasad Sapkota, Mohan Bikram Shrestha</p>
+      <p class="pub__meta">Ramesh Kathariya, Kamal Raj Gosai*, Ramesh Prasad Sapkota, Mohan Bikram Shrestha</p>
       <p>
         <a href="https://iucnosgbull.org/Volume40/Kathariya_et_al_2023.html">IUCN Otter Specialist Group Bulletin →</a> ·
         <a href="https://www.researchgate.net/publication/374260306_EFFECTS_OF_HABITAT_VARIABLES_ON_THE_DISTRIBUTION_OF_SMOOTH-COATED_OTTERS_Lutrogale_perspicillata_ALONG_THE_KAURIALA_BRANCH_OF_THE_KARNALI_RIVER_NEPAL">ResearchGate →</a>
