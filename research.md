@@ -7,7 +7,7 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
 <h1>Research</h1>
 <p>
   Full text, where available, is linked
-  through the publisher or [ResearchGate](https://www.researchgate.net/profile/Ramesh-Kathariya).
+  through the publisher or <a href = "{{ site.social.researchgate }}">ResearchGate</a>
 </p>
 
 <h2>Peer-reviewed publications</h2>
