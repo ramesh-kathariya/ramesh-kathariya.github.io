@@ -17,7 +17,7 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
     <div class="pub_date">2026</div>
     <div>
       <h3 class="pub_title">Determinants of Smooth‐coated Otter (<em>Lutrogale perspicillata</em>) Latrine Occurrence and Diet in the Karnali River, Nepal</h3>
-      <p class="pub_meta">With Ramesh Prasad Sapkota, Rajesh Sada, Aashish Kapali, Maheshwor Kathariya, Kanchan Thapa</p>
+      <p class="pub_meta">Ecology and Evolution - Wiley . Ramesh Kathariya, Ramesh Prasad Sapkota*, Rajesh Sada, Aashish Kapali, Maheshwor Kathariya, Kanchan Thapa</p>
       <p><a href="https://www.researchgate.net/publication/414829039_Determinants_of_Smooth-coated_Otter_Lutrogale_perspicillata_Latrine_Occurrence_and_Diet_in_the_Karnali_River_Nepal">View on ReseachGate →</a></p>
     </div>
   </li>
@@ -26,7 +26,7 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
     <div class="pub__date">2026</div>
     <div>
       <h3 class="pub__title">Impact of Climate Change and Integrated Approach to Adaptation Strategies — A Case Study of Nuwakot District, Nepal</h3>
-      <p class="pub__meta">With Dipesh Raj Pant, Subash Duwadi</p>
+      <p class="pub__meta">ACADEMIC AURORA . Dipesh Raj Pant, Subash Duwadi, Ramesh Kathariya*</p>
       <p><a href="https://www.researchgate.net/publication/413431312_Impact_of_Climate_Change_and_Integrated_Approach_to_Adaptation_Strategies_-_A_Case_Study_of_Nuwakot_District_Nepal">View on ResearchGate →</a></p>
     </div>
   </li>
@@ -35,16 +35,23 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
     <div class="pub__date">2025</div>
     <div>
       <h3 class="pub__title">GIS-Based Multi-Criteria Flood Hazard Assessment in a Mountainous Basin: A Study of the Melamchi River, Nepal</h3>
-      <p class="pub__meta">Asian Journal of Engineering Geology · With Subash Duwadi, Danda Pani Adhikari, Krishna KC Katuwal</p>
+      <p class="pub__meta">Asian Journal of Engineering Geology · Subash Duwadi, Danda Pani Adhikari, Ramesh Kathariya, Krishna KC Katuwal</p>
       <p><a href="https://www.researchgate.net/publication/401857705_GIS-Based_Multi-Criteria_Flood_Hazard_Assessment_in_a_Mountainous_Basin_A_Study_of_the_Melamchi_River_Nepal">View on ResearchGate →</a></p>
     </div>
   </li>
-
+  <li class="pub">
+    <div class="pub__date">2025</div>
+    <div>
+      <h3 class="pub__title">Fostering Transboundary Cooperation Through Other Effective Area-based Conservation Measures (OECMs) in the Eastern Himalaya</h3>
+      <p class="pub__meta">IUCN, International Union for Conservation of Nature and Natural Resources - In Scaling Up: Conservation in a Connected World . Sunita Chaudhary, Ramesh Kathariya, Mariano Castro Jimenez, Bandana Shakya, Samuel Thomas</p>
+      <p><a href="https://lib.icimod.org/records/n42qz-nda91">View on ICIMOD Library →</a></p>
+    </div>
+  </li>
   <li class="pub">
     <div class="pub__date">2025</div>
     <div>
       <h3 class="pub__title">Known Western Range of Asiatic Golden Cat Extended to Jajarkot, Nepal</h3>
-      <p class="pub__meta">With Dipak Raj Basnet, Jeevan Rai, Badri Baral</p>
+      <p class="pub__meta">CATNews . Dipak Raj Basnet, Jeevan Rai, Badri Baral*, Ramesh Kathariya</p>
       <p><a href="https://www.researchgate.net/publication/395129322_Known_western_range_of_Asiatic_golden_cat_extended_to_Jajarkot_Nepal">View on ResearchGate →</a></p>
     </div>
   </li>
@@ -53,7 +60,7 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
     <div class="pub__date">2025</div>
     <div>
       <h3 class="pub__title">First Record of Siberian Weasel <em>Mustela sibirica</em> Pallas, 1773 (Mammalia: Carnivora: Mustelidae) with Photographic Evidence in Jajarkot, Nepal</h3>
-      <p class="pub__meta">Nepalese Journal of Zoology · With Badri Baral, Dipak Raj Basnet, Jeevan Rai, and others</p>
+      <p class="pub__meta">Nepalese Journal of Zoology · Badri Baral*, Dipak Raj Basnet, Jeevan Rai, Gobinda Bahadur Singh, Ramesh Kathariya, Dhirendra Dhyar</p>
       <p><a href="https://www.researchgate.net/publication/393666417_First_record_of_Siberian_weasel_Mustela_sibirica_Pallas_1773_Mammalia_Carnivora_Mustelidae_with_photographic_evidence_in_Jajarkot_Nepal">View on ResearchGate →</a></p>
     </div>
   </li>
