@@ -14,14 +14,14 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
 <ul class="pub-list">
 
   <li class="pub">
-    <div class="pub_date">2026</div>
+    <div class="pub__date">2026</div>
     <div>
-      <h3 class="pub_title">Determinants of Smooth‐coated Otter (<em>Lutrogale perspicillata</em>) Latrine Occurrence and Diet in the Karnali River, Nepal</h3>
-      <p class="pub_meta">Ecology and Evolution - Wiley . Ramesh Kathariya, Ramesh Prasad Sapkota*, Rajesh Sada, Aashish Kapali, Maheshwor Kathariya, Kanchan Thapa</p>
-      <p><a href="https://www.researchgate.net/publication/414829039_Determinants_of_Smooth-coated_Otter_Lutrogale_perspicillata_Latrine_Occurrence_and_Diet_in_the_Karnali_River_Nepal">View on ReseachGate →</a></p>
+      <h3 class="pub__title">Determinants of Smooth‐coated Otter (<em>Lutrogale perspicillata</em>) Latrine Occurrence and Diet in the Karnali River, Nepal</h3>
+      <p class="pub__meta">Ecology and Evolution - Wiley . Ramesh Kathariya, Ramesh Prasad Sapkota*, Rajesh Sada, Aashish Kapali, Maheshwor Kathariya, Kanchan Thapa</p>
+      <p><a href="https://www.researchgate.net/publication/414829039_Determinants_of_Smooth-coated_Otter_Lutrogale_perspicillata_Latrine_Occurrence_and_Diet_in_the_Karnali_River_Nepal">View on ResearchGate →</a></p>
+      <p><a href="https://onlinelibrary.wiley.com/doi/10.1002/ece3.74322">View on Wiley Online Library →</a></p>
     </div>
   </li>
-  
   <li class="pub">
     <div class="pub__date">2026</div>
     <div>
@@ -30,7 +30,6 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
       <p><a href="https://www.researchgate.net/publication/413431312_Impact_of_Climate_Change_and_Integrated_Approach_to_Adaptation_Strategies_-_A_Case_Study_of_Nuwakot_District_Nepal">View on ResearchGate →</a></p>
     </div>
   </li>
-
   <li class="pub">
     <div class="pub__date">2025</div>
     <div>
@@ -55,7 +54,6 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
       <p><a href="https://www.researchgate.net/publication/395129322_Known_western_range_of_Asiatic_golden_cat_extended_to_Jajarkot_Nepal">View on ResearchGate →</a></p>
     </div>
   </li>
-
   <li class="pub">
     <div class="pub__date">2025</div>
     <div>
@@ -64,22 +62,20 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
       <p><a href="https://www.researchgate.net/publication/393666417_First_record_of_Siberian_weasel_Mustela_sibirica_Pallas_1773_Mammalia_Carnivora_Mustelidae_with_photographic_evidence_in_Jajarkot_Nepal">View on ResearchGate →</a></p>
     </div>
   </li>
-
   <li class="pub">
     <div class="pub__date">2025</div>
     <div>
       <span class="pub__tag">Book</span>
       <h3 class="pub__title">Guidelines for Natural Capital Accounting in Protected Areas: Sustaining Bhutan's Natural Wealth</h3>
-      <p class="pub__meta">With Tiger Sangay, Bandana Shakya, Rajesh Kumar Rai, and others</p>
+      <p class="pub__meta">Tiger Sangay, Bandana Shakya, Rajesh Kumar Rai, Ramesh Kathariya, and others</p>
       <p><a href="https://www.researchgate.net/publication/412818619_Guidelines_for_Natural_Capital_Accounting_in_Protected_Areas_Sustaining_Bhutan's_Natural_Wealth">View on ResearchGate →</a></p>
     </div>
   </li>
-
   <li class="pub">
     <div class="pub__date">2023</div>
     <div>
       <h3 class="pub__title">Effects of Habitat Variables on the Distribution of Smooth-Coated Otters (<em>Lutrogale perspicillata</em>) Along the Kauriala Branch of the Karnali River, Nepal</h3>
-      <p class="pub__meta">With Kamal Raj Gosai, Ramesh Prasad Sapkota, Mohan Bikram Shrestha</p>
+      <p class="pub__meta">Ramesh Kathariya, Kamal Raj Gosai, Ramesh Prasad Sapkota, Mohan Bikram Shrestha</p>
       <p>
         <a href="https://iucnosgbull.org/Volume40/Kathariya_et_al_2023.html">IUCN Otter Specialist Group Bulletin →</a> ·
         <a href="https://www.researchgate.net/publication/374260306_EFFECTS_OF_HABITAT_VARIABLES_ON_THE_DISTRIBUTION_OF_SMOOTH-COATED_OTTERS_Lutrogale_perspicillata_ALONG_THE_KAURIALA_BRANCH_OF_THE_KARNALI_RIVER_NEPAL">ResearchGate →</a>
