@@ -6,9 +6,8 @@ description: Peer-reviewed publications and ongoing manuscripts by Ramesh Kathar
 
 <h1>Research</h1>
 <p>
-  Publications below are drawn from my <a href="{{ site.social.researchgate }}">ResearchGate</a>
-  and <a href="{{ site.social.orcid }}">ORCID</a> records. Full text, where available, is linked
-  through the publisher or ResearchGate.
+  Full text, where available, is linked
+  through the publisher or [ResearchGate](https://www.researchgate.net/profile/Ramesh-Kathariya).
 </p>
 
 <h2>Peer-reviewed publications</h2>
