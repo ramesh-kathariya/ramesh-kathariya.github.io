@@ -40,17 +40,15 @@ description: Ramesh Kathariya — PhD Fellow at CAS-IGSNRR, formerly Research As
   </li>
   <li>
     Convening paper on human–elephant coexistence programming in the Mechi corridor,
-    Jhapa, Eastern Nepal, for ICIMOD's Kangchenjunga Landscape Conservation and
-    Development Initiative (KLCDI).
+    Jhapa, Eastern Nepal.
+  </li>
+  <li>
+    Support in implementation process of the Kunming-Montreal Global Biodiversity Framework (KMGBF) Target 3.
   </li>
   <li>
     "Beyond Respondents: What Climate Science Misses When Indigenous Peoples Are Not
     Knowledge Partners" — presentation for the Pan-RIfS Workshop on Diverse Knowledge
     Systems.
-  </li>
-  <li>
-    Comparative analysis of National Biodiversity Strategies and Action Plans (NBSAPs)
-    across 41 Asia-Pacific countries, built from CBD Seventh National Reports.
   </li>
 </ul>
 
@@ -60,10 +58,8 @@ description: Ramesh Kathariya — PhD Fellow at CAS-IGSNRR, formerly Research As
 <ul class="tools">
   <li>R — multi-model inference, model averaging, forest plots</li>
   <li>GIS / spatial analysis — AHP–MCDA / weighted linear combination for hazard modelling</li>
-  <li>Python (openpyxl) — parsing CBD reporting data into structured, comparable outputs</li>
   <li>Camera-trap survey design and analysis</li>
   <li>Species distribution and habitat modelling</li>
-  <li>APA 7th referencing for manuscript work</li>
 </ul>
 
 <hr class="divider">
