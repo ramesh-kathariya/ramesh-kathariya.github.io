@@ -13,7 +13,9 @@ title: Home
       what conservation policy promises and what gets implemented on the ground.
     </p>
   </div>
-  
+  <figure class="hero__figure">
+    <img class="hero__photo" src="{{ '/assets/img/profile.webp' | relative_url }}" alt="Ramesh Kathariya in the field, wearing a bucket hat with a camera strap" width="800" height="800">
+  </figure>
 </section>
 
 <div class="field-log">
