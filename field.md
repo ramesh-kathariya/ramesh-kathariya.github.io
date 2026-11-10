@@ -1,15 +1,8 @@
----
-permalink: /field
-lang-ref: field
-title: Field
-description: enjoying and exploring
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/752889720/original.jpg
-imageLicense: Ramesh Kathariya (CC BY-NC 4.0)
-height: 70vh
 
-composition:
-  - type: heroImage
-  - type: pageMarkdown
+---
+layout: default
+title: Field
+description: Fieldwork, camera-trap surveys, and species records by Ramesh Kathariya.
 ---
 
 
