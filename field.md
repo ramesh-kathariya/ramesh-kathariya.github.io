@@ -1,9 +1,9 @@
-
 ---
 layout: default
- title: Field
- description: Fieldwork, camera-trap surveys, and species records by Ramesh Kathariya.
+title: Field
+description: Fieldwork, camera-trap surveys, and species records by Ramesh Kathariya.
 ---
+
 
 
 <h1>Field</h1>
