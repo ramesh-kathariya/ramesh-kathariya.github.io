@@ -40,9 +40,7 @@ field.md          Fieldwork / iNaturalist
   assumes `ramesh-kathariya.github.io` (with hyphen) is the real
   domain, matching the repo name you gave me — double check that's
   actually correct before publishing.
-```bash
-bundle install
-bundle exec jekyll serve
+
 ```
 
 Then open `http://localhost:4000`.
