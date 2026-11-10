@@ -2,6 +2,7 @@
 
 Personal site, built with Jekyll and hosted on GitHub Pages.
 
+Visit my personal website: [https://ramesh-kathariya.github.io/](https://ramesh-kathariya.github.io/)
 ## Structure
 
 ```
