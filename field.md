@@ -1,13 +1,24 @@
 ---
-layout: default
+permalink: /field
+lang-ref: field
 title: Field
-description: Fieldwork, camera-trap surveys, and species records by Ramesh Kathariya.
+description: enjoying and exploring
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/752889720/original.jpg
+imageLicense: Ramesh Kathariya (CC BY-NC 4.0)
+height: 70vh
+
+composition:
+  - type: heroImage
+  - type: pageMarkdown
 ---
+
 
 <h1>Field</h1>
 <p>
   Wildlife documentation and species records from fieldwork across the Hindu Kush
   Himalaya, logged primarily through iNaturalist and eBird.
+
+  
 </p>
 
 <h2>iNaturalist</h2>
